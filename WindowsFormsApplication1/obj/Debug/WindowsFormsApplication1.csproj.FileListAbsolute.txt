@@ -1,0 +1,80 @@
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database.mdf
+D:\Study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+D:\study\term5\NET&C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jason\Desktop\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jin\Downloads\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister (2)\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\XIN\Desktop\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database.mdf
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Terms\Term Four\Web Service .NET C#\SchoolRegister\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
